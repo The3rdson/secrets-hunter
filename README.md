@@ -28,7 +28,7 @@ To test the scanner, create a folder named `test_files/` in the project root, an
 - `test_files/app.py`
   ```python
   aws_key = "AKIAEXAMPLEKEY1234567890"
-  token = "xoxb-123456789012-FAKETOKEN987654321"
+  token = "xoxb-***REDACTED***"
   ```
 
 - `test_files/config.yaml`
