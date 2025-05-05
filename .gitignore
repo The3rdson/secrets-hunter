@@ -1,0 +1,15 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore test outputs and models
+*.pkl
+scan_report.json
+charts/
+test_files/
+
+# VSCode settings
+*.code-workspace
